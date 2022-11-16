@@ -1,0 +1,24 @@
+2022-11-11 12:27:28,585 - INFO - Client socket created
+2022-11-11 12:27:28,585 - INFO - Connected to a server 192.168.1.38
+2022-11-11 12:27:35,033 - INFO - Sent request: =34(1+1)
+2022-11-11 12:27:35,034 - INFO - Received answer: =Wrong Input;
+   
+2022-11-11 12:27:40,302 - INFO - Sent request: =43-1
+2022-11-11 12:27:40,303 - INFO - Received answer: =42;
+   
+2022-11-11 12:27:42,951 - INFO - Sent request: =23+4
+2022-11-11 12:27:42,951 - INFO - Received answer: =27;
+   
+2022-11-11 12:27:47,647 - INFO - Sent request: = 544+ 1
+2022-11-11 12:27:47,647 - INFO - Received answer: =545;
+   
+2022-11-11 12:27:49,945 - INFO - Sent request: =stop
+2022-11-11 12:27:49,946 - INFO - Received answer: =stop;
+   
+Results of session:
+	count = 3;
+	min = 27.0;
+	max = 545.0;
+	average = 204.66666666666666;
+	
+2022-11-11 12:27:49,946 - INFO - Connection closed

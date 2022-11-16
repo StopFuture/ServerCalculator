@@ -1,0 +1,147 @@
+2022-11-11 12:04:45,446 - INFO - Server launched
+2022-11-11 12:04:48,033 - INFO - Connected to a client ('192.168.1.38', 58384)
+2022-11-11 12:04:48,033 - INFO - Sent info
+2022-11-11 12:04:48,033 - INFO - Listening to the client
+2022-11-11 12:04:51,576 - INFO - Received message: =12+1;
+2022-11-11 12:04:51,576 - INFO - Sent answer: 
+=13;
+   
+2022-11-11 12:04:54,341 - INFO - Received message: =11-1;
+2022-11-11 12:04:54,342 - INFO - Sent answer: 
+=10;
+   
+2022-11-11 12:04:57,441 - INFO - Received message: =34 - 1;
+2022-11-11 12:04:57,441 - INFO - Sent answer: 
+=33;
+   
+2022-11-11 12:04:59,904 - INFO - Received message: =sfs-
+2022-11-11 12:04:59,905 - INFO - Sent answer: 
+=Wrong Input;
+   
+2022-11-11 12:05:01,558 - INFO - Received message: =stop
+2022-11-11 12:05:01,560 - INFO - Send answer: 
+=stop;
+   
+Results of session:
+	count = 3;
+	min = 10.0;
+	max = 33.0;
+	average = 18.666666666666668;
+	
+ 
+2022-11-11 12:05:01,560 - INFO - Stop marker founded.
+2022-11-11 12:05:01,560 - INFO - Connection closed.
+2022-11-11 12:05:01,560 - INFO - Server stopped!
+--------------------
+
+2022-11-11 12:16:28,065 - INFO - Server launched
+2022-11-11 12:16:30,780 - INFO - Connected to a client ('192.168.1.38', 58444)
+2022-11-11 12:16:30,780 - INFO - Sent info
+2022-11-11 12:16:30,780 - INFO - Listening to the client
+2022-11-11 12:16:42,590 - INFO - Received message: =13/2;
+2022-11-11 12:16:42,591 - INFO - Sent answer: 
+=6.5;
+   
+2022-11-11 12:16:51,359 - INFO - Received message: =13/5;23+2;
+2022-11-11 12:16:51,359 - INFO - Sent answer: 
+=2.6;
+   25;
+   
+2022-11-11 12:16:54,153 - INFO - Received message: =a+b
+2022-11-11 12:16:54,153 - INFO - Sent answer: 
+=Wrong Input;
+   
+2022-11-11 12:17:11,817 - INFO - Received message: =2**3
+2022-11-11 12:17:11,819 - INFO - Sent answer: 
+=8;
+   
+2022-11-11 12:17:31,331 - INFO - Received message: =who
+2022-11-11 12:17:31,333 - INFO - Sent answer: 
+=Fedorych Andrii, K-25, V9, Calculator;
+   
+2022-11-11 12:18:29,532 - INFO - Received message: =24+4;who;stop;23+1;
+2022-11-11 12:18:29,533 - INFO - Send answer: 
+=28;
+   Fedorych Andrii, K-25, V9, Calculator;
+   stop;
+   
+Results of session:
+	count = 5;
+	min = 2.6;
+	max = 28.0;
+	average = 14.02;
+	
+ 
+2022-11-11 12:18:29,534 - INFO - Stop marker founded.
+2022-11-11 12:18:29,534 - INFO - Connection closed.
+2022-11-11 12:18:29,534 - INFO - Server stopped!
+--------------------
+
+2022-11-11 12:20:10,761 - INFO - Server launched
+2022-11-11 12:20:14,476 - INFO - Connected to a client ('192.168.1.38', 58460)
+2022-11-11 12:20:14,476 - INFO - Sent info
+2022-11-11 12:20:14,476 - INFO - Listening to the client
+2022-11-11 12:20:18,418 - INFO - Received message: =stop
+2022-11-11 12:20:18,418 - INFO - Send answer: 
+=stop;
+   
+Results of session:
+	count = 0;
+	min = None;
+	max = None;
+	average = None;
+	
+ 
+2022-11-11 12:20:18,418 - INFO - Stop marker founded.
+2022-11-11 12:20:18,418 - INFO - Connection closed.
+2022-11-11 12:20:18,419 - INFO - Server stopped!
+--------------------
+
+2022-11-11 12:20:30,071 - INFO - Server launched
+2022-11-11 12:20:30,071 - WARNING - HOST IS USED.
+2022-11-11 12:20:30,072 - WARNING - Exception: 'NoneType' object has no attribute 'close'
+2022-11-11 12:20:30,072 - INFO - Server stopped!
+--------------------
+
+2022-11-11 12:20:41,563 - INFO - Server launched
+2022-11-11 12:20:41,563 - WARNING - HOST IS USED.
+2022-11-11 12:20:41,563 - WARNING - Exception: 'NoneType' object has no attribute 'close'
+2022-11-11 12:20:41,563 - INFO - Server stopped!
+--------------------
+
+2022-11-11 12:23:29,490 - INFO - Server launched
+2022-11-11 12:27:28,586 - INFO - Connected to a client ('192.168.1.38', 58488)
+2022-11-11 12:27:28,587 - INFO - Sent info
+2022-11-11 12:27:28,587 - INFO - Listening to the client
+2022-11-11 12:27:35,033 - INFO - Received message: =34(1+1)
+2022-11-11 12:27:35,034 - INFO - Sent answer: 
+=Wrong Input;
+   
+2022-11-11 12:27:40,303 - INFO - Received message: =43-1
+2022-11-11 12:27:40,303 - INFO - Sent answer: 
+=42;
+   
+2022-11-11 12:27:42,951 - INFO - Received message: =23+4
+2022-11-11 12:27:42,951 - INFO - Sent answer: 
+=27;
+   
+2022-11-11 12:27:47,647 - INFO - Received message: = 544+ 1
+2022-11-11 12:27:47,647 - INFO - Sent answer: 
+=545;
+   
+2022-11-11 12:27:49,945 - INFO - Received message: =stop
+2022-11-11 12:27:49,946 - INFO - Send answer: 
+=stop;
+   
+Results of session:
+	count = 3;
+	min = 27.0;
+	max = 545.0;
+	average = 204.66666666666666;
+	
+ 
+2022-11-11 12:27:49,946 - INFO - Stop marker founded.
+2022-11-11 12:27:49,946 - INFO - Connection closed.
+2022-11-11 12:27:49,946 - INFO - Server stopped!
+--------------------
+
